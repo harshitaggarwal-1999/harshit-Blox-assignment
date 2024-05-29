@@ -1,5 +1,5 @@
 
-**Project** - **ObjectMapper **
+**Project** - **Rate Limiter**
 
 **Question** - There is an API that one must call to get data. The trouble is it will not let you cross the
 limit of call - say 15 calls per minute. If you cross the limit, the system penalizes you by one
